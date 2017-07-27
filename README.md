@@ -1,1 +1,3 @@
 # hello-world
+Hi everybody!
+ I'm interested to learn web design languages and want to create standard web page with awesome codes...
